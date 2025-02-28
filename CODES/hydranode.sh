@@ -21,14 +21,7 @@ npm install
 
 # Show message and wait for user input
 echo "---------------------------------------------"
-echo "Enter your node config, read the command, and paste it here."
-echo "After running your command, press ENTER to continue."
+echo "enter your node config"
+echo "After running your node config enter node ."
 echo "---------------------------------------------"
-
-# Wait for the user to enter their command
-read -p "Paste your command and run it manually, then press ENTER to continue..."
-
-# Start the Node.js application
-echo "Starting the Node.js application..."
-echo "subscribe to my channel"
-node .
+echo "installation complete"
